@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: main on durgeshmandge.it@gmail.com
+- 📫 How to reach me: mail on durgeshmandge.it@gmail.com
 
 <!--
 **DurgeshMandge/DurgeshMandge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
