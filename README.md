@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning CS in SPIT-Mumbai
+- 🌱 Computer Application student of SPIT-Mumbai
 - 📫 How to reach me: mail on durgeshmandge.it@gmail.com
 
 <!--
