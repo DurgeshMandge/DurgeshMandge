@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 Computer Application student of SPIT-Mumbai
+- 🌱 Masters in Computer Application : SPIT - Mumbai University
 - 📫 How to reach me: mail on durgeshmandge.it@gmail.com
 
 <!--
