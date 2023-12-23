@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 Masters in Computer Application : SPIT - Mumbai University
+- 🌱 Masters in Computer Application : Sardar Pate Institute of Technology - Mumbai University
 - 📫 How to reach me: mail on durgeshmandge.it@gmail.com
 
 <!--
