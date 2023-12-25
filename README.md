@@ -1,4 +1,4 @@
-### Hi there 👋
+### Durgesh Dilip Mandge 👋
 - 👨‍🎓 Masters in Computer Application : Sardar Patel Institute of Technology - Mumbai University 🎓
 - 📫 How to reach me: mail on durgeshmandge.it@gmail.com
 
