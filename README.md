@@ -1,6 +1,6 @@
 ### Durgesh Dilip Mandge 👋
 - 👨‍🎓 Masters in Computer Application : Sardar Patel Institute of Technology - Mumbai University 🎓
-- 📫 How to reach me: mail on durgeshmandge.it@gmail.com
+- 📫 durgeshmandge.it@gmail.com
 
 <!--
 **DurgeshMandge/DurgeshMandge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
